@@ -1,4 +1,4 @@
-Python like decorators in Javscript with psudo operator oveloading.
+Python like decorators in Javascript with pseudo operator overloading.
 =====
 
 First thing, I would like to state that this is just a small experiment and should not be used for anything more than satisfying one's curiosity. 
