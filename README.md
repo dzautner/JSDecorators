@@ -19,8 +19,7 @@ This small experiment allows you to use decorators with cool syntax like this:
 +route("/user")
 +function user() {
 	
-} ```
-
-
+} 
+```
 You can read a bit more about the concept of fake operator overloading using valueOf on my other JS experiment:
 https://github.com/dzautner/jsPipe
